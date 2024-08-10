@@ -1,3 +1,3 @@
-## End to end Machine Learning Project
-# Student-performance-analysis
-# Student-Score-prediction
+
+# Student-performance-analysis and score prediction
+
